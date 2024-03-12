@@ -1,0 +1,44 @@
+.Restaurant_div{
+
+    color:black;
+    font-size: 45px;
+}
+
+
+.Menu{
+    color: black;
+    font-size: 35px;
+}
+body{
+    background-color: rgb(214, 203, 189);
+    display: flex;
+    justify-content: center;
+}
+.Bruscetta{
+    margin-bottom: 50px;
+}
+.Älplermakkaronen{
+    margin-bottom: 50px;
+}
+.Schokoladen{
+    margin-bottom: 50px;
+}
+img{
+    height: 100px;
+    margin-left: 15px;
+}
+.Menu_div{
+   display: flex;
+   flex-direction: row;
+
+}
+ol{
+    list-style-type: none;
+}
+.Restaurant_div{
+    display: flex;
+    justify-content: center;
+}
+#button{
+    color: blueviolet;
+}
